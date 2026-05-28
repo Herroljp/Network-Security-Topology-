@@ -21,7 +21,7 @@ This project involved designing and implementing a secure three-zone network top
 
 ## Network Design
 
-![Network Security Topology](network-topology.png)
+![Network Security Topology](networksecgit1.PNG)
 
 Designed a three-zone network security topology featuring:
 
